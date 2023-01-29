@@ -1,0 +1,54 @@
+{
+    "pokemons": [
+        {
+            "name": "Bulbasaur",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png",
+            "description": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon."
+        },
+        {
+            "name": "Charmander",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/charmander.png",
+            "description": "Charmander is a Fire type Pokémon introduced in Generation 1. It is known as the Lizard Pokémon."
+        },
+        {
+            "name": "Squirtle",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/squirtle.png",
+            "description": "Squirtle is a Water type Pokémon introduced in Generation 1. It is known as the Tiny Turtle Pokémon."
+        },
+        {
+            "name": "Caterpie",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/caterpie.png",
+            "description": "Caterpie is a Bug type Pokémon introduced in Generation 1. It is known as the Worm Pokémon."
+        },
+        {
+            "name": "Pidgey",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/pidgey.png",
+            "description": "Pidgey is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Tiny Bird Pokémon."
+        },
+        {
+            "name": "Rattata",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/rattata.png",
+            "description": "Rattata is a Normal type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon."
+        },
+        {
+            "name": "Ekans",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/ekans.png",
+            "description": "Ekans is a Poison type Pokémon introduced in Generation 1. It is known as the Snake Pokémon."
+        },
+        {
+            "name": "Pikachu",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/pikachu.png",
+            "description": "Pikachu is an Electric type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon."
+        },
+        {
+            "name": "Sandshrew",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/sandshrew.png",
+            "description": "Sandshrew is a Ground type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon."
+        },
+        {
+            "name": "Jigglypuff",
+            "imageUrl": "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png",
+            "description": "Jigglypuff is a Normal/Fairy type Pokémon introduced in Generation 1. It is known as the Balloon Pokémon."
+        }
+    ]
+}
